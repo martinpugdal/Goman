@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+
+# Go module files
+go.sum
+
+# debug log files
+__debug_*.exe
